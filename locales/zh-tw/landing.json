@@ -1,0 +1,21 @@
+{
+    "exchange": "交易大廳",
+    "help": "幫助中心",
+    "contact": "Contact Us",
+    "slogan": "去中心交易所，財富操之在我",
+    "accept": "接受條款和條件",
+    "start": "開始使用",
+    "accept-beta": "嘗試使用",
+    "start-beta": "演示版本",
+    "feature1-title": "一只錢包即刻交易",
+    "feature1": "只要帶著原有的錢包，可立即進行交易",
+    "feature2-title": "交易步驟三合一",
+    "feature2": "將交易三步驟「充值丶交易丶提取」整合為一，省時又省礦工費",
+    "feature3-title": "私鑰和資產由你掌握",
+    "feature3": "不集中保管用戶的私鑰跟資產，消除駭客攻擊風險",
+    "feature4-title": "幣種豐富任你挑",
+    "feature4": "最豐富的 ERC 20 幣種，更獨家販售 XPA 和 CBT 代幣",
+    "feature5-title": "掃描 QR Code 即可交易",
+    "feature5": "下載 TideWallet app，透過掃描 QR Code 即可快速安全完成交易，未來更可 XPA 2.0 其他服務連接",
+    "follow": "You can follow us!"
+}

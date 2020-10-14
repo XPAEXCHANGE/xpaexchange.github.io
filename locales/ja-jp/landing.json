@@ -1,0 +1,21 @@
+{
+    "exchange": "交換",
+    "help": "ヘルプ",
+    "contact": "Contact Us",
+    "slogan": "あなたのお金あなたの取引。",
+    "accept": "利用規約に同意してください",
+    "start": "開始する",
+    "accept-beta": "物事をテストする",
+    "start-beta": "デモ版",
+    "feature1-title": "e-walletだけで取引を開始する",
+    "feature1": "すべてのユーザーは電子ウォレットで取引を開始する必要があります。",
+    "feature2-title": "3-in-1トランザクションプロセス",
+    "feature2": "最速の取引のために、預金、貿易、および引き出しを1つのステップにまとめます。",
+    "feature3-title": "秘密鍵と資産を非公開にする",
+    "feature3": "XPA Exchange は、秘密鍵と資産を保持せず、ハッカーやサイバー攻撃の危険性を排除します。",
+    "feature4-title": "利用可能なさまざまなトークンから選択する",
+    "feature4": "当社は、投資プロファイルの拡大を容易にするために、XPAおよびCBTを含む幅広い種類のERC20コインを提供しています。",
+    "feature5-title": "QR コードとの取引",
+    "feature5": "TideWallet アプリケーションをダウンロードし、QR コードをスキャンして取引を開始できるデジタル署名を完成させてください。将来のXPAサービスには、TideWallet からアクセスすることもできます。",
+    "follow": "You can follow us!"
+}

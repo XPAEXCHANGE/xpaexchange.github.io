@@ -1,0 +1,118 @@
+{
+    "header": {
+        "chooseToken": "選擇交易幣別",
+        "latestPrice": "最新成交價",
+        "24hrChange": "24小時改變",
+        "24hrHigh": "24小時最高價",
+        "24hrLow": "24小時最低價",
+        "24hrVolume": "24小時交易量",
+        "noResult": "查無結果",
+        "addToken": "新增貨幣",
+        "confirmAdd": "確認新增",
+        "enterAddress": "輸入貨幣地址",
+        "addedmessage": "新增貨幣已送出，請勿重複發送。",
+        "transaction": "交易",
+        "pendingOrder": "掛單簿",
+        "mortgage": "質押借貸",
+        "backToExchange": "回到交易所",
+        "chart": "圖表",
+        "guide": "使用手冊",
+        "exchange": "交易大廳",
+        "help": "幫助中心",
+        "currency": "數位資產介紹",
+        "contract": "合約",
+        "lastPrice": "最新價格",
+        "change": "漲幅"
+    },
+    "chart": {
+        "depthChart": "深度圖",
+        "priceChart": "價格圖",
+        "10minute": "分",
+        "hour": "時",
+        "day": "天",
+        "month": "月",
+        "opPrice": "開盤價",
+        "htPrice": "最高價",
+        "ltPrice": "最低價",
+        "csPrice": "收盤價",
+        "amount": "數量"
+    },
+    "table": {
+        "total": "總量",
+        "amount": "數量",
+        "ratio": "匯率",
+        "myTransaction": "我的掛單",
+        "pendingOrder": "掛單",
+        "pendingOrders": "掛單簿",
+        "closed": "歷史紀錄",
+        "desc": "交易對",
+        "token": "幣別",
+        "time": "掛單時間",
+        "type": "掛單類型",
+        "recentTranssaction": "交易歷史",
+        "volume": "成交量",
+        "noHistory": "沒有歷史紀錄",
+        "dealed": "已成交",
+        "canceled": "已取消",
+        "instantTrade": "即時交易",
+        "pendingTrade": "掛單交易",
+        "cancelAlert": "掛單完成後才能取消",
+        "cancelOrder": "取消掛單",
+        "cancelConfirm": "確定取消？",
+        "confirm": "確定",
+        "notCancel": "未取消掛單",
+        "price": "價格",
+        "sell": "賣",
+        "buy": "買",
+        "decimal": "小數以下 {{des}} 位",
+        "star": "自選",
+        "more": "更多",
+        "order": "買賣盤",
+        "buyOrder": "買盤",
+        "sellOrder": "賣盤",
+        "index": "幣幣交易",
+        "gas": "礦工費",
+        "canceling": "取消中...",
+        "deal": "已成交",
+        "max": "不可超過",
+        "min": "必須大於"
+    },
+    "tideWallet": {
+        "slogan": "最值得信賴的數位錢包"
+    },
+    "data": {
+        "title": "幣種資料",
+        "intro": "簡介",
+        "publish": "發行總量",
+        "flow": "流通總量",
+        "price": "眾酬價格",
+        "whitebook": "白皮書",
+        "web": "官網",
+        "block": "區塊查詢"
+    },
+    "footer":
+    {
+        "term": "服務條款",
+        "privacy": "隱私聲明"
+    },
+    "currency":
+    {
+        "title": "貨幣"
+    },
+    "buy": "買",
+    "sell": "賣",
+    "mortgageP1": "數位貨幣質押轉現",
+    "mortgageP2": "是您理財資金好選擇！",
+    "prompt":
+    {
+        "depth": "交易所能夠提供的買賣數量",
+        "candlestick": "由虛擬貨幣的開盤價、收盤價、最高價以及最低價所組成，可提供投資人價格行情判斷"
+    },
+    "contact":
+    {
+        "success": "您的訊息已送出",
+        "error": "訊息未送出",
+        "mailAlert": "e-mail格式錯誤",
+        "messageAlert": "請輸入訊息"
+    }
+}

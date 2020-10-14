@@ -1,0 +1,21 @@
+{
+    "exchange": "交易大厅",
+    "help": "帮助中心",
+    "contact": "联络我们",
+    "slogan": "去中心交易所，财富操之在我",
+    "accept": "接受条款和条件",
+    "start": "开始使用",
+    "accept-beta": "尝试使用",
+    "start-beta": "演示版本",
+    "feature1-title": "一只钱包即刻交易",
+    "feature1": "只要带着原有的钱包，可立即进行交易",
+    "feature2-title": "交易步骤三合一",
+    "feature2": "将交易三步骤「充值丶交易丶提取」整合为一，省时又省矿工费",
+    "feature3-title": "钥和资产由你掌握",
+    "feature3": "不集中保管用户的私钥跟资产，消除黑客攻击风险",
+    "feature4-title": "币种丰富任你挑",
+    "feature4": "最丰富的 ERC 20 币种，更独家销售 XPA 和 CBT 代币",
+    "feature5-title": "扫描二维码即可交易",
+    "feature5": "下载 TideWallet app，透过扫描二维码即可快速安全完成交易，未来更可 XPA 2.0 其他服务连接",
+    "follow": "订阅我们"
+}

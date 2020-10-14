@@ -1,0 +1,119 @@
+{
+    "header": {
+        "chooseToken": "选择交易币别",
+        "latestPrice": "最新成交价",
+        "24hrChange": "24小时改变",
+        "24hrHigh": "24小时最高价",
+        "24hrLow": "24小时最低价",
+        "24hrVolume": "24小时交易量",
+        "noResult": "查无结果",
+        "addToken": "新增货币",
+        "confirmAdd": "确认新增",
+        "enterAddress": "输入货币地址",
+        "addedmessage": "新增货币已送出，请勿重复发送。",
+        "transaction": "交易",
+        "pendingOrder": "挂单簿",
+        "mortgage": "质押借贷",
+        "backToExchange": "回到交易所",
+        "chart": "图表",
+        "guide": "使用手册",
+        "exchange": "交易大厅",
+        "help": "帮助中心",
+        "currency": "数位资产介绍",
+        "contract": "合约",
+        "lastPrice": "最新价格",
+        "change": "涨幅"
+    },
+    "chart": {
+        "depthChart": "深度图",
+        "priceChart": "价格图",
+        "10minute": "分",
+        "hour": "时",
+        "day": "天",
+        "month": "月",
+        "opPrice": "开盘价",
+        "htPrice": "最高价",
+        "ltPrice": "最低价",
+        "csPrice": "收盘价",
+        "amount": "数量"
+    },
+    "table": {
+        "total": "总量",
+        "amount": "数量",
+        "ratio": "汇率",
+        "myTransaction": "我的挂单",
+        "pendingOrder": "挂单",
+        "pendingOrders": "挂单簿",
+        "closed": "历史纪录",
+        "desc": "交易对",
+        "token": "币别",
+        "time": "挂单时间",
+        "type": "挂单类型",
+        "recentTranssaction": "交易历史",
+        "volume": "成交量",
+        "noHistory": "没有历史纪录",
+        "dealed": "已成交",
+        "canceled": "已取消",
+        "instantTrade": "即时交易",
+        "pendingTrade": "挂单交易",
+        "cancelAlert": "挂单完成后才能取消",
+        "cancelOrder": "取消挂单",
+        "cancelConfirm": "确定取消？",
+        "confirm": "确定",
+        "confirmSign": "确认签署",
+        "notCancel": "未取消挂单",
+        "price": "价格",
+        "sell": "卖",
+        "buy": "买",
+        "decimal": "小数以下 {{des}} 位",
+        "star": "自选",
+        "more": "更多",
+        "order": "买卖盘",
+        "buyOrder": "买盘",
+        "sellOrder": "卖盘",
+        "index": "币币交易",
+        "gas": "矿工费",
+        "canceling": "取消中...",
+        "deal": "已成交",
+        "max": "不可超过",
+        "min": "必须大于"
+    },
+    "tideWallet": {
+        "slogan": "最值得信賴的數位錢包"
+    },
+    "data": {
+        "title": "币种资料",
+        "intro": "简介",
+        "publish": "发行总量",
+        "flow": "流通总量",
+        "price": "众酬价格",
+        "whitebook": "白皮书",
+        "web": "官网",
+        "block": "区块查询"
+    },
+    "footer":
+    {
+        "term": "服务条款",
+        "privacy": "隐私声明"
+    },
+    "currency":
+    {
+        "title": "货币"
+    },
+    "buy": "买",
+    "sell": "卖",
+    "mortgageP1": "数位货币质押转现",
+    "mortgageP2": "是您理财资金好选择！",
+    "prompt":
+    {
+        "depth": "交易所能够提供的买卖数量",
+        "candlestick": "由虚拟货币的开盘价、收盘价、最高价以及最低价所组成，可提供投资人价格行情判断"
+    },
+    "contact":
+    {
+        "success": "您的讯息已送出",
+        "error": "讯息未送出",
+        "mailAlert": "e-mail格式错误",
+        "messageAlert": "请输入讯息"
+    }
+}

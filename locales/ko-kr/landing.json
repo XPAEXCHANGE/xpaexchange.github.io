@@ -1,0 +1,21 @@
+{
+    "exchange": "교환",
+    "help": "도움말",
+    "contact": "Contact Us",
+    "slogan": "이용 약관에 동의시작하다",
+    "accept": "이용 약관에 동의",
+    "start": "시작하다",
+    "accept-beta": "테스트를 통해",
+    "start-beta": "데모 버전",
+    "feature1-title": "전자 지갑으로 거래 시작",
+    "feature1": "모든 사용자가 거래를 시작하려면 전자 지갑이 필요합니다.",
+    "feature2-title": "3-in-1 트랜잭션 프로세스",
+    "feature2": "가장 빠른 거래를 위해 예금, 거래 및 인출을 하나의 단계로 결합하십시오.",
+    "feature3-title": "개인 키와 자산은 비공개로 유지하십시오.",
+    "feature3": "XPA Exchange는 해커 및 사이버 공격의 위험을 제거하여 개인 키와 자산을 보관하지 않습니다.",
+    "feature4-title": "다양한 토큰 중에서 선택하십시오.",
+    "feature4": "당사는 XPA 및 CBT 를 포함한 다양한 ERC20 동전을 제공하여 투자 프로필을 쉽게 확장 할 수 있도록합니다.",
+    "feature5-title": "QR 코드 거래",
+    "feature5": "TideWallet 앱을 다운로드하고 QR 코드를 스캔하여 거래 시작을 사용할 수있는 디지털 서명을 완성하십시오. 미래의 XPA 서비스는 TideWallet 을 통해 액세스 할 수도 있습니다.",
+    "follow": "You can follow us!"
+}

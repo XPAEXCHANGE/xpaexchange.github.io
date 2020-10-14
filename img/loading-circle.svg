@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <radialGradient id="b" cy="0%" r="83.187%" fx="50%" fy="0%">
+            <stop offset="0%" stop-color="#F551CC"/>
+            <stop offset="0%" stop-color="#F551CC"/>
+            <stop offset="100%" stop-color="#9F045D"/>
+        </radialGradient>
+        <path id="a" d="M24 48c13.255 0 24-10.745 24-24S37.255 0 24 0 0 10.745 0 24s10.745 24 24 24z"/>
+        <mask id="c" width="48" height="48" x="0" y="0" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <mask id="d" width="48" height="48" x="0" y="0" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+    </defs>
+    <g fill="none" fill-rule="evenodd" stroke="url(#b)" stroke-dasharray="156,314" stroke-linecap="round" stroke-linejoin="round" stroke-width="16" mask="url(#c)">
+        <use mask="url(#d)" xlink:href="#a"/>
+    </g>
+</svg>

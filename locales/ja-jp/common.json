@@ -1,0 +1,119 @@
+{
+    "header": {
+        "chooseToken": "取引通貨を選択する",
+        "latestPrice": "最新の取引価格",
+        "24hrChange": "24時間変更",
+        "24hrHigh": "24時間高",
+        "24hrLow": "24時間後",
+        "24hrVolume": "24時間取引量",
+        "noResult": "結果がありません",
+        "addToken": "新しい通貨",
+        "confirmAdd": "新しい確認",
+        "enterAddress": "通貨アドレスを入力してください",
+        "addedmessage": "新しい通貨が送付されました。もう一度送ってください。",
+        "transaction": "トレーディング",
+        "pendingOrder": "保留中の注文",
+        "mortgage": "担保ローン",
+        "backToExchange": "交換所に戻る",
+        "chart": "チャート",
+        "guide": "マニュアル",
+        "exchange": "トレーディングホール",
+        "help": "ヘルプセンター",
+        "currency": "デジタル資産導入",
+        "contract": "契約",
+        "lastPrice": "最新価格",
+        "change": "利益"
+    },
+    "chart": {
+        "depthChart": "深度図",
+        "priceChart": "ローソクチャート",
+        "10minute": "分ごと",
+        "hour": "毎時",
+        "day": "毎日",
+        "month": "月間",
+        "opPrice": "開始価格",
+        "htPrice": "最高価格",
+        "ltPrice": "最低価格",
+        "csPrice": "終値",
+        "amount": "量"
+    },
+    "table": {
+        "total": "合計",
+        "amount": "量",
+        "ratio": "比",
+        "myTransaction": "私の取引",
+        "pendingOrder": "保留中の注文",
+        "pendingOrders": "保留中の注文",
+        "closed": "過去の記録",
+        "desc": "契約の対",
+        "token": "通貨",
+        "time": "保留中の時間",
+        "type": "タイプ",
+        "recentTranssaction": "最近の取引",
+        "volume": "ボリューム",
+        "noHistory": "トランザクション履歴なし",
+        "dealed": "お取引",
+        "canceled": "止める",
+        "instantTrade": "インスタントトレード",
+        "pendingTrade": "保留中の注文取引",
+        "cancelAlert": "保留中の注文はキャンセルできます",
+        "cancelOrder": "保留中の注文をキャンセル",
+        "cancelConfirm": "キャンセルしてもよろしいですか？",
+        "confirm": "確認する",
+        "confirmSign": "サインを確認する",
+        "notCancel": "保留中の保留中の注文",
+        "price": "価格",
+        "sell": "売る",
+        "buy": "購入",
+        "decimal": "{{des}} ビット以下の部分",
+        "star": "星",
+        "more": "もっと",
+        "order": "注文",
+        "buyOrder": "購入する",
+        "sellOrder": "売る",
+        "index": "通貨取引",
+        "gas": "ガス",
+        "canceling": "キャンセル中...",
+        "deal": "取引されている",
+        "max": "超過できません",
+        "min": "より大きい必要があります"
+    },
+    "tideWallet": {
+        "slogan": "最も信頼できるデジタル財布"
+    },
+    "data": {
+        "title": "通貨情報",
+        "intro": "はじめに",
+        "publish": "総発行量",
+        "flow": "循環総量",
+        "price": "公開料",
+        "whitebook": "ホワイトペーパー",
+        "web": "公式サイト",
+        "block": "クエリをブロックする"
+    },
+    "footer":
+    {
+        "term": "利用規約",
+        "privacy": "プライバシーに関する声明"
+    },
+    "currency":
+    {
+        "title": "通貨"
+    },
+    "buy": "B",
+    "sell": "S",
+    "mortgageP1": "デジタル通貨担保譲渡",
+    "mortgageP2": "あなたの財務管理資金のための良い選択です！",
+    "prompt":
+    {
+        "depth": "取引所が提供できる取引量",
+        "candlestick": "単位期間を定め、単位期間中に初めに付いた値段を始値、最後に付いた値段を終値、最も高い値段を高値、最も安い値段を安値とし、投資者に仮想通貨値段変動の判断材料を提供する。"
+    },
+    "contact":
+    {
+        "success": "あなたのメッセージが送信されました",
+        "error": "メッセージは送信されません",
+        "mailAlert": "e-mail 不適切な形式",
+        "messageAlert": "メッセージを入力してください"
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "header": {
+        "chooseToken": "Choose currency",
+        "latestPrice": "The latest price",
+        "24hrChange": "24 hours change",
+        "24hrHigh": "Highest 24 hours",
+        "24hrLow": "Lowest 24 hours",
+        "24hrVolume": "24 hours trading volume",
+        "noResult": "No results",
+        "addToken": "Add currency",
+        "confirmAdd": "Confirm new",
+        "enterAddress": "Enter the currency address",
+        "addedmessage": "New currency has been sent, please do not send again.",
+        "transaction": "Transaction",
+        "pendingOrder": "Pending orders",
+        "mortgage": "Mortgage",
+        "backToExchange": "Back to exchange",
+        "chart": "Chart",
+        "guide": "Guide",
+        "exchange": "Exchange",
+        "help": "Help center",
+        "currency": "Introduction",
+        "contract": "Contract",
+        "lastPrice": "Last Price",
+        "change": "Change"
+    },
+    "chart": {
+        "depthChart": "Depth chart",
+        "priceChart": "Price chart",
+        "10minute": "Minutes",
+        "hour": "Hours",
+        "day": "Days",
+        "month": "Months",
+        "opPrice": "Opening Price",
+        "htPrice": "highest price",
+        "ltPrice": "Lowest Price",
+        "csPrice": "Closing price",
+        "amount": "Amount"
+    },
+    "table": {
+        "total": "Total",
+        "amount": "Amount",
+        "ratio": "Ratio",
+        "myTransaction": "My books",
+        "pendingOrder": "Pending",
+        "pendingOrders": "Pending Orders",
+        "closed": "Historical record",
+        "desc": "Pair",
+        "token": "Type",
+        "time": "Time",
+        "type": "Type",
+        "recentTranssaction": "Market",
+        "volume": "Volume",
+        "noHistory": "No history",
+        "dealed": "Deal",
+        "canceled": "Cancel",
+        "instantTrade": "Instant order",
+        "pendingTrade": "Pending order",
+        "cancelAlert": "Pending order can not be canceled",
+        "cancelOrder": "Cancel pending orders",
+        "cancelConfirm": "confirm cancellation?",
+        "confirm": "Confirm",
+        "confirmSign": "Confirm order",
+        "notCancel": "Not Cancel",
+        "price": "Price",
+        "sell": "sell",
+        "buy": "buy",
+        "decimal": "Decimal {{des}}",
+        "star": "Star",
+        "more": "more",
+        "order": "Order",
+        "buyOrder": "Buy",
+        "sellOrder": "Sell",
+        "index": "Currency trading",
+        "gas": "Gas",
+        "canceling": "Cancelling...",
+        "deal": "Deal",
+        "max": "Can not be exceeded ",
+        "min": "Must be greater than "
+    },
+    "tideWallet": {
+        "slogan": "The most trusted digital wallet"
+    },
+    "data": {
+        "title": "Currency information",
+        "intro": "Introduction",
+        "publish": "Total issue volume",
+        "flow": "The total circulation",
+        "price": "Public pay price",
+        "whitebook": "white paper",
+        "web": "Official website",
+        "block": "Block query"
+    },
+    "footer":
+    {
+        "term": "Term",
+        "privacy": "Privacy"
+    },
+    "currency":
+    {
+        "title": "Currency"
+    },
+    "buy": "B",
+    "sell": "S",
+    "mortgageP1": "Digital currency pledge transfer is a good choice for your financial management funds!",
+    "mortgageP2": "",
+    "prompt":
+    {
+        "depth": "Number of trades exchange can provide.",
+        "candlestick": " Contains the cryptocurrency’s opening price, closing price, highest price and lower price. Can provide investors with price judgments"
+    },
+    "contact":
+    {
+        "success": "Your message has been sent",
+        "error": "Message not sent",
+        "mailAlert": "e-mail not valid",
+        "messageAlert": "Please enter the message"
+    }
+}

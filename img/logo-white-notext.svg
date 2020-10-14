@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="28" viewBox="0 0 54 28">
+    <g fill="#FFF" fill-rule="evenodd" transform="translate(0 1)">
+        <rect width="23.27" height="7.446" opacity=".5" rx="3.723"/>
+        <rect width="26.993" height="7.446" x="-1.862" y="9.308" opacity=".5" rx="3.723" transform="rotate(90 11.635 13.03)"/>
+        <circle cx="3.723" cy="3.723" r="3.723"/>
+        <path d="M15.823 3.723h7.912l7.912 19.547h-7.912zM30.716 3.723h7.911L46.54 23.27h-7.912z" opacity=".5"/>
+        <path d="M39.093 3.723H31.18L23.27 23.27h7.911zM53.985 3.723h-7.911L38.162 23.27h7.912z" opacity=".5"/>
+        <circle cx="19.546" cy="3.723" r="3.723"/>
+        <circle cx="34.439" cy="3.723" r="3.723"/>
+        <circle cx="50.262" cy="3.723" r="3.723"/>
+        <circle cx="11.169" cy="23.27" r="3.723"/>
+        <circle cx="26.993" cy="23.27" r="3.723"/>
+        <circle cx="41.885" cy="23.27" r="3.723"/>
+    </g>
+</svg>

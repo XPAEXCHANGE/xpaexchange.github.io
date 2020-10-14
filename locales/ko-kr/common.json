@@ -1,0 +1,119 @@
+{
+    "header": {
+        "chooseToken": "거래 통화 선택",
+        "latestPrice": "최신 거래 가격",
+        "24hrChange": "24 시간 변경",
+        "24hrHigh": "24 시간 최고",
+        "24hrLow": "24 시간 낮음",
+        "24hrVolume": "24 시간 거래량",
+        "noResult": "결과 없음",
+        "addToken": "새 통화",
+        "confirmAdd": "새 확인",
+        "enterAddress": "통화 주소 입력",
+        "addedmessage": "새 통화가 보냈습니다. 다시 보내지 마십시오.",
+        "transaction": "거래",
+        "pendingOrder": "대기중인 주문",
+        "mortgage": "담보 대출",
+        "backToExchange": "교환으로 돌아 가기",
+        "chart": "차트",
+        "guide": "매뉴얼",
+        "exchange": "무역 홀",
+        "help": "도움말 센터",
+        "currency": "디지털 자산 소개",
+        "contract": "계약서",
+        "lastPrice": "최신 가격",
+        "change": "이득"
+    },
+    "chart": {
+        "depthChart": "깊이 맵",
+        "priceChart": "가격지도",
+        "10minute": "분마다",
+        "hour": "매시간",
+        "day": "매일",
+        "month": "월간",
+        "opPrice": "개시 가격",
+        "htPrice": "최고 가격",
+        "ltPrice": "최저 가격",
+        "csPrice": "종가",
+        "amount": "수량"
+    },
+    "table": {
+        "total": "합계",
+        "amount": "수량",
+        "ratio": "환율",
+        "myTransaction": "내가 대기중인 주문",
+        "pendingOrder": "대기중인 주문",
+        "pendingOrders": "대기중인 주문",
+        "closed": "역사 기록",
+        "desc": "거래 쌍",
+        "token": "통화",
+        "time": "보류 시간",
+        "type": "종류",
+        "recentTranssaction": "거래 내역",
+        "volume": "수량",
+        "noHistory": "역사 기록 없음",
+        "dealed": "거래",
+        "canceled": "취소됨",
+        "instantTrade": "인스턴트 거래",
+        "pendingTrade": "보류중인 주문 거래",
+        "cancelAlert": "대기중인 주문을 취소 할 수 있습니다.",
+        "cancelOrder": "대기중인 주문 취소",
+        "cancelConfirm": "취소 하시겠습니까?",
+        "confirm": "확인",
+        "confirmSign": "서명 확인",
+        "notCancel": "보류중인 주문",
+        "price": "가격",
+        "sell": "팔다",
+        "buy": "구매",
+        "decimal": "{{des}} 비트 이하의 부분",
+        "star": "별",
+        "more": "기타",
+        "order": "주문",
+        "buyOrder": "구매",
+        "sellOrder": "판매하다",
+        "index": "통화 거래",
+        "gas": "가스",
+        "canceling": "취소 중 ...",
+        "deal": "거래되고있다",
+        "max": "초과 할 수 없다",
+        "min": "반드시"
+    },
+    "tideWallet": {
+        "slogan": "가장 신뢰할 수있는 디지털 지갑"
+    },
+    "data": {
+        "title": "통화 정보",
+        "intro": "소개",
+        "publish": "총 발행량",
+        "flow": "총 대출액",
+        "price": "공공 지불 가격",
+        "whitebook": "백서",
+        "web": "공식 웹 사이트",
+        "block": "검색어 차단"
+    },
+    "footer":
+    {
+        "term": "서비스 조건",
+        "privacy": "개인 정보 보호 정책"
+    },
+    "currency":
+    {
+        "title": "통화"
+    },
+    "buy": "B",
+    "sell": "S",
+    "mortgageP1": "디지털 통화 서약",
+    "mortgageP2": "재무 관리 자금을위한 좋은 선택입니까!",
+    "prompt":
+    {
+        "depth": "거래소가 제공 할 수있는 거래 수",
+        "candlestick": "가상 통화의 개시 가격, 종가, 최고가 및 최저가로 구성되어 투자자에게 가격 견적을 제공 할 수 있습니다."
+    },
+    "contact":
+    {
+        "success": "귀하의 메시지가 전송되었습니다.",
+        "error": "메시지가 전송되지 않았습니다.",
+        "mailAlert": "e-mail 잘못된 형식",
+        "messageAlert": "메시지를 입력하십시오."
+    }
+}

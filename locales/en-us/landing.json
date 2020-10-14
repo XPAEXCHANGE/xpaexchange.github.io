@@ -1,0 +1,21 @@
+{
+    "exchange": "Exchange",
+    "help": "Help",
+    "contact": "Contact Us",
+    "slogan": "Your Money. Your Exchange.",
+    "accept": "Accept Terms and Conditions to",
+    "start": "Get Started",
+    "accept-beta": "Test things out in the",
+    "start-beta": "Demo Version",
+    "feature1-title": "Start trading with just an e-wallet",
+    "feature1": "All users need to start trading is an electronic wallet.",
+    "feature2-title": "3-in-1 transaction processes",
+    "feature2": "Combine your deposit, trade, and withdrawal into a single step for the fastest trading.",
+    "feature3-title": "Keep your private key and assets private",
+    "feature3": "XPA Exchange doesn’t keep your private key and assets, eliminating the danger of hackers and cyberattacks.",
+    "feature4-title": "Choose from a variety of available tokens",
+    "feature4": "We provide a wide variety of ERC20 coins, including XPA and CBT, to make it easy to expand your investment profile.",
+    "feature5-title": "Trade with QR Codes",
+    "feature5": "Download the TideWallet app and scan a QR code to complete a digital signature you can use to start trading. Future XPA services can also be accessed via TideWallet.",
+    "follow": "You can follow us!"
+}
